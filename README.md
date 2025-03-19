@@ -10,7 +10,7 @@ This project aims to predict startup profits using a dataset containing 50 start
 - The target variable is Profit. The project involves data exploration, preprocessing, model training with hyperparameter tuning, cross-validation, and final evaluation. In addition, a Streamlit web application is provided for interactive predictions
 
 ### Model Training and Evaluation
-The Jupyter Notebook (startup_profit_predictor.ipynb) contains all the steps for :
+The Jupyter Notebook (Predict Start-up Business Profits.ipynb) contains all the steps for :
 
 - Exploratory Data Analysis (EDA): Data overview, summary statistics , visualization of numerical and categorical features, and outlier detection
 -Preprocessing: Handling categorical variables using OneHotEncoder 
